@@ -3,6 +3,7 @@ title: "Towards Battery Circularity: Blockchain-Enabled Semantic Traceability an
 collection: portfolio
 date: 2026-01-01
 status: ongoing
+project_type: grant
 period: "2026 (under review)"
 funder: "2026 Request for Joint Research Proposals, Environmental Defense Fund & Cornell Atkinson Center for Sustainability"
 role: "Project Manager"

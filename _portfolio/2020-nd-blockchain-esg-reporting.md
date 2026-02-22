@@ -3,6 +3,7 @@ title: "nD Blockchain for ESG Reporting"
 collection: portfolio
 date: 2023-06-01
 status: previous
+project_type: grant
 period: "1 January 2020 to 30 June 2023"
 funder: "Innovation and Technology Support Program (ITP/021/20LP), Innovation and Technology Fund, Hong Kong"
 role: "Core Project Member"

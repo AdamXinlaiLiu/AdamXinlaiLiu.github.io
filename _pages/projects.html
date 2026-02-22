@@ -7,19 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign ongoing = site.portfolio | where: "status", "ongoing" | sort: "date" | reverse %}
-{% assign previous = site.portfolio | where: "status", "previous" | sort: "date" | reverse %}
+{% assign course_projects = site.portfolio | where: "project_type", "course" | sort: "date" | reverse %}
+{% assign research_grants = site.portfolio | where: "project_type", "grant" | sort: "date" | reverse %}
 
-<h2>Ongoing projects and grants</h2>
+<h2>Course projects</h2>
 <ul style="list-style-type: disc; padding-left: 1.5em;">
-  {% for post in ongoing %}
+  {% for post in course_projects %}
   <li style="margin-bottom: 0.5em;">"{{ post.title }}", {{ post.period }}, {{ post.funder }}, {{ post.role }}.</li>
   {% endfor %}
 </ul>
 
-<h2>Previous projects and grants</h2>
+<h2>Research grants</h2>
 <ul style="list-style-type: disc; padding-left: 1.5em;">
-  {% for post in previous %}
+  {% for post in research_grants %}
   <li style="margin-bottom: 0.5em;">"{{ post.title }}", {{ post.period }}, {{ post.funder }}, {{ post.role }}.</li>
   {% endfor %}
 </ul>

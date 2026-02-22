@@ -11,7 +11,7 @@ author_profile: true
 
   Course instructor with **Boeing Gift Funding** supporting student-led, project-based innovation in Cornell Systems Engineering. The course explores blockchain from three angles: theory (cryptography and consensus), platforms (Bitcoin, Ethereum, Hyperledger Fabric), and applications (supply chain, sustainability). 2025 Theme: "Blockchain: A Trustworthy Friend in the Era of AI." 2024 Theme: "Blockchain for Social Benefits"
 
-- **Blockchain project for climate action research**
+- **Blockchain and trustworthy AI projects for climate action research**
 
   Project course instructor guiding more than 50 master's students in computer science and systems engineering.
 

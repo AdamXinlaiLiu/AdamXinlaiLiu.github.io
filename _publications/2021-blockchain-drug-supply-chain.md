@@ -7,8 +7,8 @@ excerpt: 'Smart tracking and tracing platform for drug supply chain using blockc
 date: 2021-01-01
 venue: 'Computers & Industrial Engineering'
 volume: '161'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360835221005738'
+paperurl: 'https://doi.org/10.1016/j.cie.2021.107669'
 citation: 'Liu, X., Barenji, A.V., Li, Z., Montreuil, B., & Huang, G.Q. (2021). "Blockchain-based smart tracking and tracing platform for drug supply chain." Computers & Industrial Engineering, 161, 107669.'
 ---
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0360835221005738)
+[Download paper here](https://doi.org/10.1016/j.cie.2021.107669)

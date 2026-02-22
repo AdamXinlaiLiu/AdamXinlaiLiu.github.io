@@ -3,6 +3,7 @@ title: "Research on Multi-Scale Tool Knowledge Discovery and Reuse Method Based 
 collection: portfolio
 date: 2017-08-01
 status: previous
+project_type: grant
 period: "1 September 2016 to 31 August 2017"
 funder: "National Natural Science Foundation of China (NSFC)"
 role: "Project Member"

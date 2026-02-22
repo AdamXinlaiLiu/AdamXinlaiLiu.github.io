@@ -7,8 +7,8 @@ excerpt: 'Comparative study on data-driven ESG assessment for blockchain service
 date: 2023-01-01
 venue: 'Resources, Conservation and Recycling'
 volume: '190'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0921344922006693'
+paperurl: 'https://doi.org/10.1016/j.resconrec.2022.106837'
 citation: 'Liu, X., Yang, Y., Jiang, Y., Fu, Y., Zhong, R.Y., Li, M., Huang, G.Q. (2023). "Data-driven ESG assessment for blockchain services: A comparative study in textiles and apparel industry." Resources, Conservation and Recycling, 190, 106837.'
 ---
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0921344922006693)
+[Download paper here](https://doi.org/10.1016/j.resconrec.2022.106837)
