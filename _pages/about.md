@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+### About Me
 
 I am an **Ezra Systems Postdoctoral Associate** and **Visiting Lecturer** in **Systems Engineering** at **Cornell University**, Ithaca, NY, working with [Prof. H. Oliver Gao](https://www.duffield.cornell.edu/people/h-oliver-gao/). I earned my **Ph.D. in Industrial and Manufacturing Systems Engineering** from **The University of Hong Kong**, under the supervision of [Prof. George Q. Huang](https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/?sc_lang=en).
 
@@ -27,7 +28,7 @@ I develop **blockchain-based and AI-powered systems** for carbon registries and 
 - **Production and supply chains**  
   Cloud computing, optimization, and analytics for large-scale, complex production and supply chain systems.
 
-I am always open to collaborative opportunities and welcome interdisciplinary projects with meaningful societal impact. Please feel free to [contact me](mailto:xl957@cornell.edu) if you are interested in working together.
+I am always open to collaborative opportunities and welcome interdisciplinary projects with meaningful societal impact. Please feel free to [contact me](mailto:xl957@cornell.edu) if you are interested in exchanging ideas or working together.
 
 *Outside of research, I enjoy reading, playing basketball, and watching the NBA. I am always happy to connect and exchange ideas for the betterment of society and future generations.*
 
