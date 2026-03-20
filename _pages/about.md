@@ -44,7 +44,12 @@ I am always open to collaborative opportunities and welcome interdisciplinary pr
 
 ## News
 
+- **Mar 2026:** **2026 EDF–Cornell Atkinson Joint Research Project**, “Towards Battery Circularity: Blockchain-Enabled Semantic Traceability and Incentive Design for EV Battery Recycling,” has been approved for funding.
+
+- **Feb 2026:** Paper published: Liu, X., Bagchi, T., Sy, C. L., & Gao, H. O. (2026). A blockchain-based carbon registry platform for credible climate action in transportation. *npj Climate Action*, 5(1), 23.
+
 - **Jan 2026:** The **Industrial Blockchain Systems and Applications** course at Cornell received **Boeing Gift Funding** to support student-led, project-based innovation in Systems Engineering. Theme: *“Blockchain: A Trustworthy Friend in the Era of AI.”*
+
 - **May 2025:** Poster and oral presentation at **IISE Annual Conference and Expo 2025**, Atlanta — *“A Double Auction Mechanism for Token-Based Carbon Credit Trading in Blockchain-Based Carbon Markets.”*
 - **Feb 2025:** Speaker at the [2025 Emissions Tracking, Reporting, and Compliance Conference](https://emissionstrackingandreporting.energyconferencenetwork.com/usa25/SPEAKERS), Houston. Presented work on emissions tracking and agentic AI for climate action.
 - **Nov 2024:** Achieved **Associate Level** in the **CIRTL Certificate Program**, Cornell University.
