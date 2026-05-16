@@ -43,6 +43,15 @@ I am always open to collaborative opportunities and welcome interdisciplinary pr
 ---
 
 ## News
+- **May 2026:** Served as Session Chair of the **"Circular Economy: Design, Innovation, and Industrial Systems"** track at the **IISE Annual Conference and Expo 2026**, Arlington, TX.
+
+- **May 2026:** Poster and oral presentation at **IISE Annual Conference and Expo 2026**, Arlington, TX — *"A Blockchain-Based Electric Vehicle Battery Recycling Platform Towards Circular Economy."*
+
+- **Apr 2026:** **2026 Fund for Undergraduate Research on Solutions to Climate Change**, "Global Climate Innovation Assessment Through the Lens of Patent Data" (mentee: Joshua Dirga), has been selected for funding.
+
+- **Apr 2026:** **2026 Engaged Engineering Undergraduate Research Award**, "Physics-Informed Trustworthy AI for Emission Auditing of Global Renewable Energy Carbon Offset Projects" (mentee: Jim Wang), has been selected for funding.
+
+- **Mar 2026:** Paper published: Liu, X., Bagchi, T., Harish, A.R., Sy, C. L., & Gao, H. O. (2026). Blockchain and Double Auction for Credible and Efficient Voluntary Carbon Market. *Applied Energy*, 412(1), 127719.
 
 - **Mar 2026:** **2026 EDF–Cornell Atkinson Joint Research Project**, “Towards Battery Circularity: Blockchain-Enabled Semantic Traceability and Incentive Design for EV Battery Recycling,” has been approved for funding.
 
