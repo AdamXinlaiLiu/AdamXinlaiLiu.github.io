@@ -12,4 +12,4 @@ paperurl: "https://emissionstrackingandreporting.energyconferencenetwork.com/usa
 citation: 'Liu, X. (2025). "Emissions Tracking, Reporting, and Compliance Conference." 2025 Emissions Tracking, Reporting, and Compliance Conference, Houston, USA.'
 ---
 
-Postdoctoral Associate & Visiting Lecturer, Cornell University. Speaker at the [2025 Emissions Tracking, Reporting, and Compliance Conference](https://emissionstrackingandreporting.energyconferencenetwork.com/usa25/SPEAKERS), Houston.
+Lecturer and Research Associate, Cornell University. Speaker at the [2025 Emissions Tracking, Reporting, and Compliance Conference](https://emissionstrackingandreporting.energyconferencenetwork.com/usa25/SPEAKERS), Houston.

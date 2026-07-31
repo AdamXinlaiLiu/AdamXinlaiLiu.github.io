@@ -16,8 +16,8 @@ redirect_from:
 Education
 ======
 * **Cornell University** — Sep 2023–Present  
-  * Ezra Systems Postdoctoral Associate, Systems Engineering  
-  * Visiting Lecturer, Systems Engineering  
+  * Lecturer, Systems Engineering  
+  * Research Associate, Systems Engineering  
 * **The University of Hong Kong** — Sep 2019–Aug 2023  
   * Doctor of Philosophy, Industrial and Manufacturing Systems Engineering  
 * **Guangdong University of Technology** — Sep 2016–Jul 2019  

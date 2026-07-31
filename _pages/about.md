@@ -8,9 +8,9 @@ redirect_from:
 ---
 ### About Me
 
-I am an **Ezra Systems Postdoctoral Associate** and **Visiting Lecturer** in **Systems Engineering** at **Cornell University**, Ithaca, NY, working with [Prof. H. Oliver Gao](https://www.duffield.cornell.edu/people/h-oliver-gao/). I earned my **Ph.D. in Industrial and Manufacturing Systems Engineering** from **The University of Hong Kong**, under the supervision of [Prof. George Q. Huang](https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/?sc_lang=en).
+I am a **Lecturer** and **Research Associate** in **Systems Engineering** at **Cornell University**, Ithaca, NY, working with [Prof. H. Oliver Gao](https://www.duffield.cornell.edu/people/h-oliver-gao/). I earned my **Ph.D. in Industrial and Manufacturing Systems Engineering** from **The University of Hong Kong**, under the supervision of [Prof. George Q. Huang](https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/?sc_lang=en).
 
-My research lies at the intersection of **blockchain systems**, **trustworthy artificial intelligence**, and **data-driven decision-making**, with a focus on sustainability, climate action, and complex industrial systems. A central theme of my work is leveraging **blockchain and trustworthy AI** to enable **credible multi-stakeholder collaboration** and to transform complex product and lifecycle data into actionable insights for societal and operational decision-making.
+My research lies at the intersection of **blockchain systems**, **trustworthy artificial intelligence**, and **data-driven decision-making**, with a focus on sustainability, climate action, and complex sociotechnical systems. A central theme of my work is leveraging **blockchain and trustworthy AI** to enable **credible multi-stakeholder collaboration** and to transform complex product and lifecycle data into actionable insights for societal and operational decision-making.
 
 I develop **blockchain-based and AI-powered systems** for carbon registries and markets, corporate ESG assessment, and production and supply chain management. More broadly, I aim to design **trustworthy socio-technical systems** in the AI era that bridge methodological rigor with real-world impact across manufacturing, energy, and emerging immersive technologies.
 
@@ -43,6 +43,10 @@ I am always open to collaborative opportunities and welcome interdisciplinary pr
 ---
 
 ## News
+- **Jul 2026:** Mentoring two Cornell undergraduates selected for Summer 2026 Undergraduate Research Awards: **Joshua Dirga** (*Global Climate Innovation Assessment Through the Lens of Patent Data*, Fund for Undergraduate Research on Solutions to Climate Change) and **Jim Wang** (*Physics-Informed Trustworthy AI for Emission Auditing of Global Renewable Energy Carbon Offset Projects*, Engaged Engineering Undergraduate Research Awards).
+
+- **Jul 2026:** Appointed **Lecturer** and **Research Associate** in Systems Engineering at Cornell University.
+
 - **May 2026:** Served as Session Chair of the **"Circular Economy: Design, Innovation, and Industrial Systems"** track at the **IISE Annual Conference and Expo 2026**, Arlington, TX.
 
 - **May 2026:** Poster and oral presentation at **IISE Annual Conference and Expo 2026**, Arlington, TX — *"A Blockchain-Based Electric Vehicle Battery Recycling Platform Towards Circular Economy."*
